@@ -20,7 +20,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-<img src="https://github.com/Sohil-K16/Sohil-K16/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)"/>
+<img src="https://github.com/Sohil-K16/Sohil-K16/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
   
   <br/><br/><br/>
 </div>
