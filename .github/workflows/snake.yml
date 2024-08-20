@@ -1,0 +1,27 @@
+name: Generate Snake
+
+on:
+  push:
+    branches:
+    - master
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Generate Snake
+      uses: Platane/snk@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        output: dist/snake.svg
+
+    - name: Push Snake
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: master
+        force: true
+        directory: dist
