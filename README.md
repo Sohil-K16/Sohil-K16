@@ -20,7 +20,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sohil-K16/Sohil-K16/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/Sohil-K16/Sohil-K16/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)" />
   
   <br/><br/><br/>
 </div>
