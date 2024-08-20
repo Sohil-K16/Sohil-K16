@@ -18,22 +18,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Sohil-K16/Sohil-K16/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Sohil-K16/Sohil-K16/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Sohil-K16/Sohil-K16/output/github-contribution-grid-snake.svg"
-  />
-</picture>
   
   <br/><br/><br/>
 </div>
